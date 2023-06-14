@@ -5,8 +5,8 @@
 4주 : 0522 ~ 
 
 # 스프링프로젝트
-팀원 : 5명
-branch : min , 2min (내가 한 것!)
+팀원 : 5명<br>
+branch : min , 2min 작성했음! <br>
 
 
 DB: https://www.erdcloud.com/d/d4J5sbv3icsP2zY5f <br>
