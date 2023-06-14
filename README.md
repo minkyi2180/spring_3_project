@@ -4,7 +4,9 @@
 3주 : 0515 ~ 0522 >> 2주 이어서
 4주 : 0522 ~ 
 
-# 5명 > 스프링프로젝트 
+# 스프링프로젝트
+팀원 : 5명
+branch : min , 2min (내가 한 것!)
 
 
 DB: https://www.erdcloud.com/d/d4J5sbv3icsP2zY5f <br>
